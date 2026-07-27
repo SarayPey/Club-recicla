@@ -1,0 +1,12 @@
+:root {
+	--k: #000000;
+}
+
+img {
+	width: 150px;
+}
+
+#headerEcoArt {
+	display: flex;
+	flex-direction: row;
+}
