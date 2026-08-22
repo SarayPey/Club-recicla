@@ -35,3 +35,59 @@
 - Peyton Wilson: Estadounidense millonaria y amiga de la infancia de Noah, sus padres siguen casados.
 - Milán Arturo Jiménez Vargas: Puertorriqueño fan de Alan Walker y la música electrónica en general, pero que mantiene lo que es en realidad oculto de su familia conservadora y estricta.
 - Nora Mia Luna Castro Vera: Mejor amiga de Milán de la infancia, su padre murió cuando era niña, vive con su madre (su padre falleció por leucémia), su padastro, sus hermanos y algunos hermanastros. También adora la música electrónica, pero lo muestra abiertamente.
+
+***
+
+# Historial de cambios
+
+Inicio de contexto: 26/julio/2026
+
+## Ajuste #000
+
+- `README.md` agregado.
+
+## Ajuste #001
+
+- `index.html` Agregado.
+- Imágenes/sprites agregados.
+
+## Ajuste #002
+
+- `style.css` Agregado.
+- `index.html` modificado:
+  - Ahora tiene texto, css y sprites.
+
+## Ajuste #003
+
+- Archivos agregados en la nueva carpeta *lorebook* para entendimiendo de la historia:
+  - `Cuentas.md` → Redes sociales ficticias.
+  - `ECOARTdatitos.md` → Datos curiosos y de historia de los clubes.
+  - `EcoClub vs ArtClub.md` → Comparativa de los clubes y estudiantes.
+  - `Estudiantes.md` → Estudiantes.
+  - `Familias.md` → Familias de los clubes.
+  - `Hermanos.md` → Hermanos de los clubes.
+  - `Trama y protagonistas.md` → Presentación de la historia.
+
+## Ajuste #004
+
+- Cambio de nombre de archivos por comodidad:
+  - `Nora_escuchadoAlanWalker` → `Nora_faded`
+  - `Nora_amenazandoAKaleb` → `Nora_seria`
+- `colorSet.css` Agregado para tener un lugar especialmente para los colores.
+- Ajustes en `style.css` para que el header encaje con el mockup en pantallas pequeñas.
+- Contexto e historia agregada en `README.md`.
+- `Trama y protagonistas.md` fue eliminado y sus datos pasaron a `README.md`.
+- Arreglado error en `Estudiantes.md` donde algunos estudiantes estaban en el orden erróneo.
+- Cambios en `Index.html`:
+  - Clases agregadas.
+  - Agregado el 'Personajes hechos por SarayPey'.
+  - `colorSet.md` Agregado.
+
+## Ajuste #005
+
+- Historial de cambios agregados en `README.md`.
+- Subcarpetas creadas:
+  - *lorebook/facts* → Carpeta de datos curiosos.
+  - *lorebook/histories* → relatos.
+- `Cuentas.md`, `ECOARTdatitos.md`, `EcoClub vs ArtClub.md`, `Estudiantes.md`, `Familias.md` y `Hermanos.md` fueron movidos a la carpeta *facts*.
+- En *histories* se crearon `RecuerdosDeSalvacion.md` (completo) y `ClubRecicla.md` (en proceso).
