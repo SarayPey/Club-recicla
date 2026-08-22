@@ -1,12 +1,82 @@
 :root {
-	--k: #000000;
+	--flip: 180deg;
 }
 
 img {
-	width: 150px;
+	width: 77px;
 }
 
 #headerEcoArt {
 	display: flex;
 	flex-direction: row;
+}
+
+#headerEcoArt .Bianca {
+	transform: translate(-15px);
+	z-index: 1;
+}
+
+#headerEcoArt .Ricardo {
+	transform: translate(-70px);
+	z-index: -1;
+}
+
+#headerEcoArt .Erika {
+	transform: translate(-115px, -5px) scale(1.1) rotateY(var(--flip));
+	z-index: -3;
+}
+
+#headerEcoArt .Thiago {
+	transform: translate(-150px);
+	z-index: -2;
+}
+
+#headerEcoArt .Eirene {
+	transform: translate(-200px);
+	z-index: -4;
+}
+
+#headerEcoArt .Vanessa {
+	transform: translate(-250px);
+	z-index: -5;
+}
+
+#headerEcoArt .Julian {
+	transform: translate(-260px) rotateY(var(--flip));
+	z-index: -6;
+}
+
+#headerEcoArt .Nayeli {
+	transform: translate(-320px);
+	z-index: -7;
+}
+
+#headerEcoArt .Noah {
+	transform: translate(-345px);
+	z-index: -8;
+}
+
+#headerEcoArt .Peyton {
+	transform: translate(-405px);
+	z-index: -9;
+}
+
+#headerEcoArt .Milan {
+	transform: translate(-445px);
+	z-index: -10;
+}
+
+#headerEcoArt .Nora {
+	transform: translate(-495px);
+	z-index: -11;
+}
+
+#headerEcoArt .Kaleb {
+	transform: translate(-535px)  rotateY(var(--flip));
+	z-index: -13;
+}
+
+#headerEcoArt .Salome {
+	transform: translate(-580px)  rotateY(var(--flip));
+	z-index: -12;
 }

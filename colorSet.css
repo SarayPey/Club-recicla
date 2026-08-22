@@ -1,0 +1,27 @@
+:root {
+	--k: #222222;
+	--w: #fafafa;
+	--v: #0e4004;
+	--nav: #76cf82;
+	--club: #6dff7c;
+	--ecoClub: #d5ffa0;
+	--artClub: #6ddcff;
+	--eaText: #123d28;
+
+	--sloganMain: #46b251;
+
+
+	--eco: #a0cf76;
+	--art: #6ddcff;
+
+	--ecoD: #46b251; /*Ver más*/
+	--artD: #0c7376;
+
+	--ecoL: #dae8dc;
+	--juliyeli: #e8e8da;
+	--artL: #dae2e8;
+}
+
+* {
+	color: var(--k);
+}
